@@ -1,3 +1,5 @@
+**Description**
+
 This is the project of Adel El Mais for the course Programming - Introduction level at the University of St. Gallen.
 
 The aim of the project was to create a programme to calculate the beta of any financial security at any given time period.
