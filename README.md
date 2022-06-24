@@ -14,7 +14,8 @@ In order to run it, please install the requirements from the requirements.txt fi
 
 1. Download the file
 2. Unzip it
-3. Run Run_me.py
-4. Enter a ticker such (e.g. AAPL) and time period (e.g. 31.12.2010 - 31.12.2011)
-5. Watch the magic happen
+3. Install the requirements
+4. Run Run_me.py
+5. Enter a ticker (e.g. AAPL) and a time period (e.g. 31.12.2010 - 31.12.2011)
+6. Watch the magic happen
 
