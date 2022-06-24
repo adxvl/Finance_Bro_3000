@@ -22,7 +22,7 @@ With pip, the requirements can be installed with a single line of code. More on 
 
 **Instructions**
 
-1. Download the file
+1. Download the folder from github
 2. Unzip it
 3. Install the requirements ```pip install -r requirements.txt```
 4. Run ```Run_me.py```
