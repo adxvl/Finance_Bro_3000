@@ -1,6 +1,6 @@
 **General Description**
 
-![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/ed804cf65452ecb7f4aaf11c6e617657c194cd41/Finance_Bro_Icon.png)
+![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/ed804cf65452ecb7f4aaf11c6e617657c194cd41/Finance_Bro_Icon.png)[^1]
 
 This is the project of Adel El Mais for the course Programming - Introduction level at the University of St. Gallen supervised by Dr. Mario Silic.
 
@@ -12,7 +12,6 @@ When the code is executed, a window opens. The user is welcomed and asked to ent
 
 **Example**
 
-![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/ed804cf65452ecb7f4aaf11c6e617657c194cd41/Finance_Bro_Icon.png)
 
   
 
@@ -30,10 +29,11 @@ With pip, the requirements can be installed with a single line of code. More on 
 4. Run ```Run_me.py```
 5. Enter a ticker (e.g. AAPL) and a time period (e.g. 31.12.2010 - 31.12.2011)
 6. Click "Check For Ticker"
-7. If there is no error[^1] a button "Calculate" will appear. Click on it.
+7. If there is no error[^2] a button "Calculate" will appear. Click on it.
 8. Watch the magic happen
 
-[^1]: If an error occurs, a message is displayed with the error and a "Clear" button will appear. Click on it in order to correct the entry and continue with step 7.
+[^1]: Picture from https://www.etsy.com/ch/listing/1072807330/geldbecher-lustig-parodie-geschenk-gag
+[^2]: If an error occurs, a message is displayed with the error and a "Clear" button will appear. Click on it in order to correct the entry and continue with step 7.
 
 **Outlook**
 
