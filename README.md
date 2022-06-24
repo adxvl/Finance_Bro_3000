@@ -1,14 +1,20 @@
-**Description**
+**General Description**
 
 This is the project of Adel El Mais for the course Programming - Introduction level at the University of St. Gallen supervised by Dr. Mario Silic.
 
-The aim of the project was to create a program to calculate the Beta of any financial security for any given time period.
-This method for calculating the beta was inspired by the following Excel tutorial https://www.youtube.com/watch?v=ucKK528ApCw
+The aim of the project was to create a program to calculate the Beta of any financial security for any given time period. This method for calculating the beta was inspired by the following Excel tutorial https://www.youtube.com/watch?v=ucKK528ApCw
+
+**How does the code work?**
+
+When the code is executed, a window opens. The user is welcomed and asked to enter a ticker (e.g. AAPL) and a time period for which the user wants to calculate the beta. In the background, the program checks whether the user input is valid (e.g. ticker is valid, time period is not in the future, data availability, etc.). If this is not the case, an error message pops up and the user is prompted to try again by correcting the input.
+
+  
 
 **Pre-requisites**
 
 The program works with Python3.
-In order to run it, please install the requirements from the requirements.txt file
+In order to run it, please install the requirements from the requirements.txt file.
+With pip, the requirements can be installed with a single line of code. More on this under instructions step 4.
 
 **Instructions**
 
