@@ -3,10 +3,12 @@ The aim of the project was to create a programme to calculate the beta of any fi
 This method for calculating the beta was inspired by the following Excel tutorial https://www.youtube.com/watch?v=ucKK528ApCw
 
 **Pre-requisites**
+
 The program works with Python3
 In order to run it, please install the requirements from the requirements.txt file
 
 **Instructions**
+
 1. Download the file
 2. Unzip it
 3. Run Run_me.py
