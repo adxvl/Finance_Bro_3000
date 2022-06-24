@@ -82,7 +82,7 @@ def IsTickerValid():
             ClearErrorButton = Button(root, text="Clear", padx=10, pady=10, command=clear_DateProblem)
             ClearErrorButton.pack(pady=10)         
         
-        if from_date_input >= today_formated or till_date_input > today_formated:
+        if from_date_input > today_formated or till_date_input > today_formated:
             label_DateProblem = tk.Label(root, text=f"Date cannot be in the future. Press 'Clear' to try again.", bg = "white", font= "Helvetica 12 bold")
             label_DateProblem.pack(pady = 30)
             ClearErrorButton = Button(root, text="Clear", padx=10, pady=10, command=clear_DateProblem)
