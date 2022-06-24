@@ -1,6 +1,6 @@
 **General Description**
 
-![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/ed804cf65452ecb7f4aaf11c6e617657c194cd41/Finance_Bro_Icon.png)[^1]
+![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/ed804cf65452ecb7f4aaf11c6e617657c194cd41/Finance_Bro_Icon.png) [^1]
 
 This is the project of Adel El Mais for the course Programming - Introduction level at the University of St. Gallen supervised by Dr. Mario Silic.
 
