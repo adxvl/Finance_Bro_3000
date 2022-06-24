@@ -6,7 +6,11 @@ The aim of the project was to create a program to calculate the Beta of any fina
 
 **How does the code work?**
 
-When the code is executed, a window opens. The user is welcomed and asked to enter a ticker (e.g. AAPL) and a time period for which the user wants to calculate the beta. In the background, the program checks whether the user input is valid (e.g. ticker is valid, time period is not in the future, data availability, etc.). If this is not the case, an error message pops up and the user is prompted to try again by correcting the input.
+When the code is executed, a window opens. The user is welcomed and asked to enter a ticker (e.g. AAPL) and a time period for which the user wants to calculate the beta. In the background, the program checks whether the user input is valid (e.g. ticker is valid, time period is not in the future, data availability, etc.). If this is not the case, an error message pops up and the user is prompted to try again by correcting the input. Once the validity of the data is confirmed, the program performs the calculation based on the Youtube tutorial included in the general description. The ticker is compared with the "CRSP U.S. Total Market Index", which serves as the market return. This data was taken from the Fama/French database, which is downloaded when the code is run (to get the latest data). The result - a graph of the price development of the financial asset visualised with the regression. Beta, Alfa and R² are also displayed in text form.
+
+**Example**
+
+
 
   
 
@@ -23,5 +27,8 @@ With pip, the requirements can be installed with a single line of code. More on 
 3. Install the requirements (pip install -r requirements.txt)
 4. Run Run_me.py
 5. Enter a ticker (e.g. AAPL) and a time period (e.g. 31.12.2010 - 31.12.2011)
-6. Watch the magic happen
+6. Click "Check For Ticker"
+7. If there is no error* a button "Calculate" will appear. Click on it.
+8. Watch the magic happen
 
+* If an error occurs, a message is displayed with the error and a "Clear" button will appear. Click on it in order to correct the entry and continue with step 7.
