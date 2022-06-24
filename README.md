@@ -24,7 +24,7 @@ With pip, the requirements can be installed with a single line of code. More on 
 
 1. Download the file
 2. Unzip it
-3. Install the requirements (```pip install -r requirements.txt)
+3. Install the requirements (```pip install -r requirements.txt```)
 4. Run Run_me.py
 5. Enter a ticker (e.g. AAPL) and a time period (e.g. 31.12.2010 - 31.12.2011)
 6. Click "Check For Ticker"
