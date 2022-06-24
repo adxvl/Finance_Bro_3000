@@ -221,7 +221,7 @@ def StockFetching():
 root = Tk()
 root.geometry("1450x750")
 root.configure(background="white")
-icon_photo = PhotoImage(file = "Finance_Bro_3000/Finance_Bro_Icon.png") #from https://www.etsy.com/ch/listing/1072807330/geldbecher-lustig-parodie-geschenk-gag
+icon_photo = PhotoImage(file = "Finance_Bro_3000-main/Finance_Bro_Icon.png") #from https://www.etsy.com/ch/listing/1072807330/geldbecher-lustig-parodie-geschenk-gag
 root.iconphoto(False, icon_photo)
 root.title("Your Everyday Finance Bro")
 
