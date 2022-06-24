@@ -12,7 +12,11 @@ When the code is executed, a window opens. The user is welcomed and asked to ent
 
 **Example**
 
-
+![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/dd80b4a37a884c512b8255d750b3c540d6756926/Example/1.png)
+![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/dd80b4a37a884c512b8255d750b3c540d6756926/Example/2.png)
+![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/dd80b4a37a884c512b8255d750b3c540d6756926/Example/3.png)
+![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/dd80b4a37a884c512b8255d750b3c540d6756926/Example/4.png)
+![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/dd80b4a37a884c512b8255d750b3c540d6756926/Example/Error_Example.png)
   
 
 **Pre-requisites**
