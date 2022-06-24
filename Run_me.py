@@ -116,7 +116,7 @@ def IsTickerValid():
     except Exception as e:
         label_TickerNotFound = tk.Label(root, text=f"Cannot find {stock_ticker} data, check your spelling. Otherwise it probably does not exist on yfinance or the given dates are not available. Press 'Clear' to try again.", bg = "white", font= "Helvetica 12 bold")
         label_TickerNotFound.pack(pady = 30)
-        label_Exception = tk.Label(root, text=f"Error 101: {e}", bg = "white", font= "Helvetica 12 bold")
+        label_Exception = tk.Label(root, text=f"Error 101: {e}", bg = "white", font= "Helvetica 12 bold") #Error 'longName' means ticker is either wrong or was not found on yfinance
         label_Exception.pack(pady = 30)
         ClearErrorButton = Button(root, text="Clear", padx=10, pady=10, command=clear_TickerNotFound)
         ClearErrorButton.pack(pady=10)
