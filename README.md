@@ -5,13 +5,15 @@
 This is the project of Adel El Mais for the course Programming - Introduction level at the University of St. Gallen supervised by Dr. Mario Silic.
 
 The aim of the project was to create a program to calculate the Beta of any financial security for any given time period. This method for calculating the beta was inspired by the following Excel tutorial https://www.youtube.com/watch?v=ucKK528ApCw
-<br/>
-<br/>
+
+-----
+
 **How does the code work?**
 
 When the code is executed, a window opens. The user is welcomed and asked to enter a ticker (e.g. AAPL) and a time period for which the user wants to calculate the beta. In the background, the program checks whether the user input is valid (e.g. ticker is valid, time period is not in the future, data availability, etc.). If this is not the case, an error message pops up and the user is prompted to try again by correcting the input. Once the validity of the data is confirmed, the program performs the calculation based on the Youtube tutorial included in the general description. The ticker is compared with the "CRSP U.S. Total Market Index", which serves as the market return. This data was taken from the Fama/French database, which is downloaded when the code is run (to get the latest data). The result - a graph of the price development of the financial asset visualised with the regression. Beta, Alfa and R² are also displayed in text form. For better understanding of the code check the comments in the ```Run_me.py``` file.
-<br/>
-<br/>
+
+-----
+
 **Example**
 
 ![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/dd80b4a37a884c512b8255d750b3c540d6756926/Example/1.png)
@@ -28,14 +30,17 @@ When the code is executed, a window opens. The user is welcomed and asked to ent
 
 ![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/dd80b4a37a884c512b8255d750b3c540d6756926/Example/Error_Example.png)
 **An Error Example**
-<br/>  
+
+-----
+
 **Prerequisites**
 
 The program works with Python3.
 In order to run it, please install the requirements from the requirements.txt file.
 With pip, the requirements can be installed with a single line of code. More on this under instructions step 4.
-<br/>
-<br/>
+
+-----
+
 **Instructions**
 
 1. Download the folder from GitHub
@@ -46,7 +51,8 @@ With pip, the requirements can be installed with a single line of code. More on 
 6. Click "Check For Ticker"
 7. If there is no error[^2] a button "Calculate" will appear. Click on it.
 8. Watch the magic happen
-<br/>
+
+-----
 
 **Outlook**
 
