@@ -32,3 +32,7 @@ With pip, the requirements can be installed with a single line of code. More on 
 8. Watch the magic happen
 
 * If an error occurs, a message is displayed with the error and a "Clear" button will appear. Click on it in order to correct the entry and continue with step 7.
+
+**Outlook**
+
+To maximize the utility of this program, one needs to optimize it. One way would be to include different types of market returns as a reference point, such as the S&P 500. Another way would be to optimize the code and write it more smoothly and efficiently to reduce computation time and improve comprehension. The user interface is kept fairly simple, so there is room for improvement in this area. One could combine Python and HTML and create a web application that makes the program accessible online. Nevertheless, I will experiment with the code and optimize it in my spare time.
