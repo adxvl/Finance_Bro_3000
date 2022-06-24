@@ -5,7 +5,7 @@ This method for calculating the beta was inspired by the following Excel tutoria
 
 **Pre-requisites**
 
-The program works with Python3
+The program works with Python3.
 In order to run it, please install the requirements from the requirements.txt file
 
 **Instructions**
