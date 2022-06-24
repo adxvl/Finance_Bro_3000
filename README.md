@@ -28,10 +28,10 @@ With pip, the requirements can be installed with a single line of code. More on 
 4. Run Run_me.py
 5. Enter a ticker (e.g. AAPL) and a time period (e.g. 31.12.2010 - 31.12.2011)
 6. Click "Check For Ticker"
-7. If there is no error* a button "Calculate" will appear. Click on it.
+7. If there is no error[^1] a button "Calculate" will appear. Click on it.
 8. Watch the magic happen
 
-* If an error occurs, a message is displayed with the error and a "Clear" button will appear. Click on it in order to correct the entry and continue with step 7.
+[^1]: If an error occurs, a message is displayed with the error and a "Clear" button will appear. Click on it in order to correct the entry and continue with step 7.
 
 **Outlook**
 
