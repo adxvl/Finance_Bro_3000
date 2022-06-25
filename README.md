@@ -1,11 +1,5 @@
 **General Description**
 
-![alt text](https://github.com/adxvl/Finance_Bro_3000/blob/ed804cf65452ecb7f4aaf11c6e617657c194cd41/Finance_Bro_Icon.png) [^1]
-
-<p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://github.com/adxvl/Finance_Bro_3000/blob/ed804cf65452ecb7f4aaf11c6e617657c194cd41/Finance_Bro_Icon.png)">
-</p>
-
 This is the project of Adel El Mais for the course Programming - Introduction level at the University of St. Gallen supervised by Dr. Mario Silic.
 
 The aim of the project was to create a program to calculate the Beta of any financial security for any given time period. This method for calculating the beta was inspired by the following Excel tutorial https://www.youtube.com/watch?v=ucKK528ApCw
