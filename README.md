@@ -31,7 +31,7 @@ When the code is executed, a window opens. The user is welcomed and asked to ent
 
 The program works with Python3.
 In order to run it, please install the requirements from the requirements.txt file.
-With pip, the requirements can be installed with a single line of code. More on this under instructions step 4.
+With pip, the requirements can be installed with a single line of code. More on this under instructions step 3.
 
 ## Instructions
 
